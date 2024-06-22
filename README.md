@@ -2,6 +2,8 @@
 
 This custom script integrates a face similarity checker into the Stable Diffusion Web UI, enabling users to conveniently check the similarity between a reference image and generated images using the Insightface library.
 
+![Screenshot](screenshot.png)
+
 ## Installation and Setup
 
 ### Prerequisites
